@@ -3,7 +3,7 @@
   description: Strong programming experience in Python and Node.js/JavaScript/TypeScript, some in Java, C/C++, Rust, PHP
 - skill: Cloud systems development
   description: "Experience with cloud development using Amazon AWS: EC2, S3, Lambda, AWS IoT, DynamoDB, OpenSearch"
-- skill: Embedded developement
+- skill: Embedded development
   description: Embedded programming and electronics experience with Arduino, CircuitPython/MicroPython, ESP8266/32, Atmel
 - skill: Electronics design
   description: Electronics PCB design (KiCad), manufacture, assembly, and repair
