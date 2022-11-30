@@ -1,12 +1,19 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Software development
+  description: Strong programming experience in Python and Node.js/JavaScript/TypeScript, some in Java, C/C++, Rust, PHP
+- skill: Cloud systems development
+  description: "Experience with cloud development using Amazon AWS: EC2, S3, Lambda, AWS IoT, DynamoDB, OpenSearch"
+- skill: Embedded developement
+  description: Embedded programming and electronics experience with Arduino, CircuitPython/MicroPython, ESP8266/32, Atmel
+- skill: Electronics design
+  description: Electronics PCB design (KiCad), manufacture, assembly, and repair
+- skill: Containerization
+  description: Experience with containerization technology (Docker) for application deployment and local development
+- skill: Linux
+  description: Server and embedded Linux-based systems administration, Bash-scripting for automating tasks
+- skill: Automated testing
+  description: Automated software testing using Pytest/Unittest/Nose (Python), Jest/Mocha/Chai (JS)
+- skill: Documentation
+  description: Experience writing and generating documentation for libraries, applications, tools, and systems
+- skill: FPGAs and ASICs
+  description: Some FPGA/ASIC experience in VHDL (Xilinx tools)

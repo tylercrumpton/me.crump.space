@@ -1,19 +1,44 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Synapse Wireless
+  position: Staff Software Engineer
+  duration: Oct 2013 &mdash; Oct 2022
+  summary: >
+    <i>Apr 2021 &mdash; Oct 2022 at Staff level</i><br/>
+    <i>Nov 2016 &mdash; Apr 2021 at Senior level</i><br/>
+    Developed full-stack wireless Internet of Things (IoT) solutions for solar installations, lighting controls, and industrial monitoring.
+    <ul class="resume-item-list">
+      <li>Served as Scrum-master for multiple engineering teams, maintaining velocity, organization, and management updates</li>
+      <li>Organized and participated in many cross-functional “Design Sprints” to develop new features and systems</li>
+      <li>Wrote embedded microcontroller software to handle sparse and dense wireless mesh networks</li>
+      <li>Created gateway applications bridging wireless mesh networks with cloud and local services</li>
+      <li>Developed and updated UI features using Angular and NgRx state management</li>
+      <li>Built cloud backend systems and features using various AWS services, GraphQL, and Node.js</li>
+      <li>Generated unit and end-to-end tests for wireless, gateway, desktop, and web applications</li>
+      <li>Built and maintained Continuous Integration flows for many projects using JenkinsCI and GitHub Actions</li>
+      <li>Assessed software and hardware technical decisions regarding security and performance</li>
+    </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: ADTRAN
+  position: Software Design Engineer
+  duration: May 2012 &mdash; Aug 2014
+  summary: >
+    Worked on the Voice/Applications team for IP Business Gateways (IPBGs).
+    <ul class="resume-item-list">
+      <li>Fixed bugs and field issues involving SIP messaging, CLI commands, reboots, etc.</li>
+      <li>Implemented Synchronous Ethernet for a new project by interfacing with FPGA designs</li>
+      <li>Employed automated regression testing for features using Robot Framework</li>
+      <li>Cooperated with coworkers as part of an agile team with daily Scrum meetings</li>
+      <li>Assisted in the design of a software licensing system, including cryptography and logistics</li>
+    </ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Auburn University
+  position: FPGA BIST Undergraduate Research
+  duration: May 2011 &mdash; Aug 2011
+  summary: >
+    Worked on Built-in Self-Test for Xilinx Spartan 6 Field Programmable Gate Arrays,
+    focusing on BIST approach for testing Block RAM (BRAM) modules on the Spartan 6.
+    Used FPGA tools such as Xilinx FPGA Editor, Xilinx Design Suite, and ModelSim.
